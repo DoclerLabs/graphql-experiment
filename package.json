@@ -1,12 +1,13 @@
 {
 	"name": "graphql-experiment",
 	"version": "1.0.0",
-	"description": "Test",
+	"description": "Experimenting with GraphQL.",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Gabriel Mičkop",
+	"author": "Gabriel Mičko",
+	"repository": "https://github.com/DoclerLabs/graphql-experiment.git",
 	"license": "ISC",
 	"dependencies": {
 		"babel-preset-node5": "^11.1.0",
