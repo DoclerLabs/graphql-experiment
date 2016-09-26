@@ -4,7 +4,7 @@
 GraphQL is a data query language developed internally by Facebook in 2012 before being publicly released in 2015. It provides an alternate to REST and ad-hoc webservice architectures.
 
 - More on [Wikipedia](http://daringfireball.net)
-- GraphQL official [Wikipedia](http://graphql.org/)
+- GraphQL [official](http://graphql.org/)
 
 ### Personal goals
 - To create collect and configure pacakges needed to build an API using GraphQL and NodeJS.
@@ -22,13 +22,6 @@ GraphQL is a data query language developed internally by Facebook in 2012 before
 
 ### Running the app
 
-
-Install:
-```sh
-$ npm install
-$ babel-node server.js
-```
-
 Database (db.js):
 ```javascript
 const Conn = new Sequelize(
@@ -40,6 +33,12 @@ const Conn = new Sequelize(
 		host: '' //Host
 	}
 );
+```
+
+Install:
+```sh
+$ npm install
+$ babel-node server.js
 ```
 
 Open: [localhost:300](http://localhost:3000).
