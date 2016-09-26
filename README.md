@@ -41,7 +41,7 @@ $ npm install
 $ babel-node server.js
 ```
 
-Open: [localhost:300](http://localhost:3000).
+Open: [localhost:3000](http://localhost:3000).
 
 
 ### Version
