@@ -12,7 +12,9 @@
 	"dependencies": {
 		"babel-preset-node5": "^11.1.0",
 		"express": "^4.14.0",
+		"express-graphql": "^0.5.4",
 		"faker": "^3.1.0",
+		"graphql": "^0.7.0",
 		"lodash": "^4.16.1",
 		"mysql": "^2.11.1",
 		"pg": "^6.1.0",
